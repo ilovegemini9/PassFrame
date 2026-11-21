@@ -1,0 +1,6 @@
+{
+  "name": "PassFrame",
+  "description": "Zero-upload biometric passport, visa, and ID photo compliance studio with 35+ country specs and 4x6 print sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
